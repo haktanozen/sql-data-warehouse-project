@@ -162,7 +162,7 @@ data-warehouse-project/
 
 │
 
-├── tests/                              # Test scripts and quality files
+├── test/                              # Test scripts and quality files
 
 │
 
